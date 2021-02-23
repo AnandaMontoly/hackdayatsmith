@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hackdayatsmith/static/css/main.3d64503e.chunk.css",
-    "main.js": "/hackdayatsmith/static/js/main.3cf04fa5.chunk.js",
-    "main.js.map": "/hackdayatsmith/static/js/main.3cf04fa5.chunk.js.map",
-    "runtime-main.js": "/hackdayatsmith/static/js/runtime-main.8e7bf611.js",
-    "runtime-main.js.map": "/hackdayatsmith/static/js/runtime-main.8e7bf611.js.map",
-    "static/js/2.a71b177a.chunk.js": "/hackdayatsmith/static/js/2.a71b177a.chunk.js",
-    "static/js/2.a71b177a.chunk.js.map": "/hackdayatsmith/static/js/2.a71b177a.chunk.js.map",
-    "static/js/3.beb69aa5.chunk.js": "/hackdayatsmith/static/js/3.beb69aa5.chunk.js",
-    "static/js/3.beb69aa5.chunk.js.map": "/hackdayatsmith/static/js/3.beb69aa5.chunk.js.map",
-    "index.html": "/hackdayatsmith/index.html",
-    "static/css/main.3d64503e.chunk.css.map": "/hackdayatsmith/static/css/main.3d64503e.chunk.css.map",
-    "static/js/2.a71b177a.chunk.js.LICENSE.txt": "/hackdayatsmith/static/js/2.a71b177a.chunk.js.LICENSE.txt",
-    "static/media/bg.9e52438d.jpg": "/hackdayatsmith/static/media/bg.9e52438d.jpg",
-    "static/media/logo.6ce24c58.svg": "/hackdayatsmith/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.3d64503e.chunk.css",
+    "main.js": "/static/js/main.3cf04fa5.chunk.js",
+    "main.js.map": "/static/js/main.3cf04fa5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2f5b02b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2f5b02b7.js.map",
+    "static/js/2.a71b177a.chunk.js": "/static/js/2.a71b177a.chunk.js",
+    "static/js/2.a71b177a.chunk.js.map": "/static/js/2.a71b177a.chunk.js.map",
+    "static/js/3.beb69aa5.chunk.js": "/static/js/3.beb69aa5.chunk.js",
+    "static/js/3.beb69aa5.chunk.js.map": "/static/js/3.beb69aa5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3d64503e.chunk.css.map": "/static/css/main.3d64503e.chunk.css.map",
+    "static/js/2.a71b177a.chunk.js.LICENSE.txt": "/static/js/2.a71b177a.chunk.js.LICENSE.txt",
+    "static/media/bg.9e52438d.jpg": "/static/media/bg.9e52438d.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e7bf611.js",
+    "static/js/runtime-main.2f5b02b7.js",
     "static/js/2.a71b177a.chunk.js",
     "static/css/main.3d64503e.chunk.css",
     "static/js/main.3cf04fa5.chunk.js"
